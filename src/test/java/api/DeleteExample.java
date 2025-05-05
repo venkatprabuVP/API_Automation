@@ -1,3 +1,5 @@
+package api;
+
 import static io.restassured.RestAssured.*;
 
 public class DeleteExample {
